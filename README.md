@@ -1,5 +1,5 @@
 # Dario Bros.
-##Aka: Super Dario Bros.##
+## Aka: Super Dario Bros. ##
 
 A simple gameboy-style platformer
 
