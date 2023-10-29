@@ -11,6 +11,6 @@ Now supports iOS "Add to Home Screen"!
 
 **Not an official Gameboy game**
 
-*credits:*
+#### credits: ####
 
 Everything: Devy4304
