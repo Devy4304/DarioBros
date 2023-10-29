@@ -16,6 +16,7 @@ https://devy4304.github.io/DarioBros/
 
 ### New Features: ###
 Now supports iOS "Add to Home Screen"!
+Music now plays!
 
 ### Notes and Credits: ###
 
