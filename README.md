@@ -1,7 +1,7 @@
 # Dario Bros.
 ## Aka: Super Dario Bros. ##
 
-
+![](/Preview.jpeg)
 
 A simple gameboy-style platformer
 Some sprites are from Super Mario Land and others I made.
