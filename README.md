@@ -7,6 +7,7 @@ Some sprites are from Super Mario Land and others I made.
 ### New Features: ###
 Now supports iOS "Add to Home Screen"!
 
+### Notes and Credits: ###
 
 **Not an official Gameboy game**
 
